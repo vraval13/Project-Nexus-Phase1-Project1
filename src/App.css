@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+* {
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 100vh; */
+  background: #cbdbff;
+}
+
+.form-container {
+  width: 1000px;
+  background: white;
+  background: url('https://images.pexels.com/photos/9977654/pexels-photo-9977654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title, .slogan {
+  text-align: center;
+}
+
+.btn {
+  width: 100%;
+}
+.auth-image
+{
+  width: 100%;
+  border-radius: 8px;
+}
+.alert
+{
+  margin-bottom: 1.5rem;
+}
+body
+{
+  background: url('https://images.pexels.com/photos/68147/waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+}
