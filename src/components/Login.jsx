@@ -24,6 +24,7 @@ function Login()
           </Typography.Title>
           <Typography.Text type="secondary" strong className="slogan">
             Unlock your world.
+            <h3>Created by Vyom Raval</h3>
           </Typography.Text>
           <Form layout="vertical" onFinish={handleLogin} autoComplete="off">
             <Form.Item
