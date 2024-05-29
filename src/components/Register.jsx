@@ -19,6 +19,8 @@ function Register()
           </Typography.Title>
           <Typography.Text type="secondary" strong className="slogan">
             Join our Company for Exclusive Offers and Perks !
+             <br />
+            <h3>Created by Vyom Raval</h3>
           </Typography.Text>
           <Form layout="vertical" onFinish={handleRegister} autoComplete="off">
             <Form.Item
