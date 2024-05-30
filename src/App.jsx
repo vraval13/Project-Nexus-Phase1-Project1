@@ -17,6 +17,7 @@ function App() {
   return (
     <Router>
       <Routes>
+        <h1>Nexus Summer Project</>
         <Route
           path="/"
           element={
